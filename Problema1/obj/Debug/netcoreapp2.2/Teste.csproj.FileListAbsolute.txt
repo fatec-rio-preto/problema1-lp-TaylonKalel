@@ -1,0 +1,11 @@
+C:\Users\Taylon\Meus Documentos\lp\Teste\bin\Debug\netcoreapp2.2\Teste.deps.json
+C:\Users\Taylon\Meus Documentos\lp\Teste\bin\Debug\netcoreapp2.2\Teste.runtimeconfig.json
+C:\Users\Taylon\Meus Documentos\lp\Teste\bin\Debug\netcoreapp2.2\Teste.runtimeconfig.dev.json
+C:\Users\Taylon\Meus Documentos\lp\Teste\bin\Debug\netcoreapp2.2\Teste.dll
+C:\Users\Taylon\Meus Documentos\lp\Teste\bin\Debug\netcoreapp2.2\Teste.pdb
+C:\Users\Taylon\Meus Documentos\lp\Teste\obj\Debug\netcoreapp2.2\Teste.csprojAssemblyReference.cache
+C:\Users\Taylon\Meus Documentos\lp\Teste\obj\Debug\netcoreapp2.2\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Taylon\Meus Documentos\lp\Teste\obj\Debug\netcoreapp2.2\Teste.AssemblyInfoInputs.cache
+C:\Users\Taylon\Meus Documentos\lp\Teste\obj\Debug\netcoreapp2.2\Teste.AssemblyInfo.cs
+C:\Users\Taylon\Meus Documentos\lp\Teste\obj\Debug\netcoreapp2.2\Teste.dll
+C:\Users\Taylon\Meus Documentos\lp\Teste\obj\Debug\netcoreapp2.2\Teste.pdb
